@@ -1,0 +1,62 @@
+body {
+    background: black;
+    display: flex;
+    justify-content: center;
+    font-family: roboto;
+}
+
+.layout {
+    background: white;
+    width: 500px;
+    height: 100%;
+    margin-top: 50px;
+}
+
+.photoHead {
+    width: 500px;
+    height: 50px;
+    display: flex;
+}
+
+.photoHead p {
+    margin: 7px;
+}
+
+.fa-html5 {
+    margin: 9px;
+}
+
+.fa-ellipsis-vertical {
+    margin-left: auto;
+    padding: 10px;
+
+}
+
+.photoFoot {
+    width: 500px;
+    height: 50px;
+    display: flex;
+}
+
+.fa-regular {
+    padding: 5px;
+}
+
+.fa-bookmark {
+    margin-left: auto;
+    padding-right: 10px;
+}
+
+
+.photoDescription {
+    width: 500px;
+    height: 100%;
+}
+
+.photoDescription p {
+    padding: 5px;
+}
+
+#saxo {
+    width: 500px;
+}
